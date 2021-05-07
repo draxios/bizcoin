@@ -12,7 +12,7 @@ with no central authority: managing transactions and issuing money are carried
 out collectively by the network.
 
 For more information, as well as the binary version of
-the Bizzycoin software, see [https://bizzycoin.org](https://bizzycoin.org).
+the Bizcoin software, see [https://bizzycoin.org](https://bizzycoin.org).
 
 License
 -------
