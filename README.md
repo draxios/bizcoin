@@ -1,12 +1,12 @@
-Bizzycoin
+Bizcoin
 =====================================
 
 https://bizzycoin.org
 
-What is Bizzycoin?
+What is Bizcoin?
 ----------------
 
-Bizzycoin is an experimental digital currency that enables instant payments to
+Bizcoin is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. It is based on Litecoin, and uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network.
@@ -17,7 +17,7 @@ the Bizzycoin software, see [https://bizzycoin.org](https://bizzycoin.org).
 License
 -------
 
-Bizzycoin is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Bizcoin is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process (Copied from Litecoin)
